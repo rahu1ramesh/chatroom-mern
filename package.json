@@ -1,0 +1,27 @@
+{
+  "name": "chatroom-mern",
+  "version": "1.0.0",
+  "description": "A real-time chat application built using the MERN stack (MongoDB, Express, React, Node.js). It allows users to join chat rooms and exchange messages in real-time.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rahu1ramesh/chatroom-mern.git"
+  },
+  "keywords": [
+    "chat",
+    "app",
+    "mern"
+  ],
+  "author": "RAHUL RAMESH",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rahu1ramesh/chatroom-mern/issues"
+  },
+  "homepage": "https://github.com/rahu1ramesh/chatroom-mern#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
